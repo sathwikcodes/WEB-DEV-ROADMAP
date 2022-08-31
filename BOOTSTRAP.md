@@ -1,4 +1,6 @@
 # BOOTSTRAP
+<img src="/images/Bootstrap_logo.svg" width="50" height="50"> <img src="/images/Bootstrap_logo.svg" width="50" height="50"> <img src="/images/Bootstrap_logo.svg" width="50" height="50"> 
+
 Bootstrap is a free, open source HTML, CSS, and JavaScript framework for quickly building responsive websites.
 
 Initially, Bootstrap was called Twitter Blueprint and was developed by a team working at Twitter. It supports responsive design and features predefined design templates that you can use out of the box, or customize for your needs with your code. You don't need to worry about compatibility with other browsers either, as Bootstrap is compatible with all modern browsers and newer versions of Internet Explorer.
